@@ -1,12 +1,14 @@
 # Beyond Repentance: Morrow
 
-A VHS-footage horror mini-game blending SCP-level time warping madness and inspired from Lovecraftian cosmic horror.
+A pixel art, VHS-footage horror mini-game blending SCP-level time warping madness and inspired from Lovecraftian cosmic horror.
+### banner
+<img width="800" height="600" alt="title" src="https://github.com/user-attachments/assets/164a9799-d327-4f7c-8edb-0de54f898e57" />
 
-## Theme
+## ⏳ Theme
 **The Changing of Time**
 Experience time decay, looping reality, and a rogue star that devours the temporal fabric itself.
 
-## How to Play
+## 🕹️ How to Play
 1. Clone this repository
 2. Run on a local server:
    - Python3: `python -m http.server 8000`
@@ -14,25 +16,27 @@ Experience time decay, looping reality, and a rogue star that devours the tempor
    - Open `http://localhost:8000` on your browser
    - You may use headphones for better experience
 
-## Controls
+## 🎮 Controls
 1. *Enter*: continue cutscene
 2. *Up arrow*: move forward
 3. *Down arrow*: move backward
 4. *R*: restart (when required)
 5. *E*: interact
 
-## Technologies
+## 🖥️ Technologies
 1. Phaser.js v3.55.2
 2. HTML-CSS
 3. JavaScript (Phaser library)
+4. Piskel
+5. PixilArt
 
-## Content Warning
+##⚠ Content Warning
 Includes psychological distress, cosmic horror, temporal collapse and unexplained anomalies
 
 ## License
 MIT License: Check repository
 
-## Synopsis
+## 📼 Synopsis 
 It's the year 2226, two leaders of the crew check a recovered bodycam footage of their stranded crewmate, who was sent on a mission to rescue another stranded astronaut from a damaged spaceship near a star with unforeseen properties.
 The recovered footage records time anomalies... and something from the past.
 
